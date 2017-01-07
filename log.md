@@ -13,4 +13,11 @@
 
 **Thoughts:** I struggled with the CSS trick to vertically center the page content, but found the right solution that would vertically center any element. I could do more with this web app. However, I'm going to move onto different projects and return to this one once I have some inspiration. 
 
-**Link to Heroku**[Random Quote Machine](https://powerful-bayou-60246.herokuapp.com/)
+**Link to Heroku** [Random Quote Machine](https://powerful-bayou-60246.herokuapp.com/)
+
+## Day 2: January 6, 2017
+**Today's Progress**: Started working with HTML5 canvas. Didn't get far in coding as I spent most of my time learning the ropes.
+
+**Thoughts:** I look forward to coding something different from anything I've coded before. 
+
+**Link to work:** [Connect-The-Dots](https://github.com/aishaprograms/Connect-The-Dots)
