@@ -15,7 +15,7 @@
 
 **Link to Heroku** [Random Quote Machine](https://powerful-bayou-60246.herokuapp.com/)
 
-## Day 2: January 6, 2017
+## Day 3: January 6, 2017
 **Today's Progress**: Started working with HTML5 canvas. Didn't get far in coding as I spent most of my time learning the ropes.
 
 **Thoughts:** I look forward to coding something different from anything I've coded before. 
