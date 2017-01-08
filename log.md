@@ -21,3 +21,8 @@
 **Thoughts:** I look forward to coding something different from anything I've coded before. 
 
 **Link to work:** [Connect-The-Dots](https://github.com/aishaprograms/Connect-The-Dots)
+
+## Day 4: January 7, 2017
+**Today's Progress**: I started on a project which integrates Node and SQL. I switched over to this since it directly relates to what we are learning in class.
+
+**Thoughts:** SQL can get tricky!
