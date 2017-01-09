@@ -26,3 +26,11 @@
 **Today's Progress**: I started on a project which integrates Node and SQL. I switched over to this since it directly relates to what we are learning in class.
 
 **Thoughts:** SQL can get tricky!
+
+**Link to work:** [GreatBay](https://github.com/aishaprograms/GreatBay)
+
+## Day 5: January 8, 2017
+**Today's Progress**: I completed half of the work which involves inquirer. After adding the mysql methods, it will add the inquirer answers to the database.
+
+**Link to work:** [GreatBay](https://github.com/aishaprograms/GreatBay)
+
