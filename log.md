@@ -34,3 +34,4 @@
 
 **Link to work:** [GreatBay](https://github.com/aishaprograms/GreatBay)
 
+January 9, 2017 and January 10, 2017 were sick days.
