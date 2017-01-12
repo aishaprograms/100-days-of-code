@@ -34,4 +34,11 @@
 
 **Link to work:** [GreatBay](https://github.com/aishaprograms/GreatBay)
 
-January 9, 2017 and January 10, 2017 were sick days.
+From January 9, 2017 to January 11, 2017 were sick days. January 10 pushes were homework.
+
+## Day 6: January 12, 2017
+**Today's Progress**: Project completed. Simulates a bidding app.
+
+**Thoughts:** After a few sick days, it felt good to complete a project.
+
+**Link to work:** [GreatBay](https://github.com/aishaprograms/GreatBay)
