@@ -42,3 +42,10 @@ From January 9, 2017 to January 11, 2017 were sick days. January 10 pushes were 
 **Thoughts:** After a few sick days, it felt good to complete a project.
 
 **Link to work:** [GreatBay](https://github.com/aishaprograms/GreatBay)
+
+## Day 7: January 13, 2017
+**Today's Progress**: Started on a local weather app. Uses HTML5 geolocation. Logs weather to console.
+
+**Thoughts:** I'm still wrapping my mind around using callbacks in async functions.
+
+**Link to work:** [Local-Weather](https://github.com/aishaprograms/Local-Weather)
