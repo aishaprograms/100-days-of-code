@@ -49,3 +49,10 @@ From January 9, 2017 to January 11, 2017 were sick days. January 10 pushes were 
 **Thoughts:** I'm still wrapping my mind around using callbacks in async functions.
 
 **Link to work:** [Local-Weather](https://github.com/aishaprograms/Local-Weather)
+
+## Day 8: January 14, 2017
+**Today's Progress**: Continued weather app. Has a pretty UI now.
+
+**Thoughts:** The app is slow. I need to figure this out tomorrow. It might be a combo of HTML5 gelocation retrieval and AJAX JSON data retrieval.
+
+**Link to work:** [Local-Weather](https://github.com/aishaprograms/Local-Weather)
