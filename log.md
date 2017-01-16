@@ -56,3 +56,11 @@ From January 9, 2017 to January 11, 2017 were sick days. January 10 pushes were 
 **Thoughts:** The app is slow. I need to figure this out tomorrow. It might be a combo of HTML5 gelocation retrieval and AJAX JSON data retrieval.
 
 **Link to work:** [Local-Weather](https://github.com/aishaprograms/Local-Weather)
+
+## Day 8: January 14, 2017
+**Today's Progress**: I added weather icons to my Local Weather app which picks an appropriate icon based on the weather description.
+
+**Thoughts:** I practiced using a switch case. It's still not so intuitive for me yet, but I learn more as I practice.
+
+**Link to work:** [Local-Weather](https://github.com/aishaprograms/Local-Weather)
+
