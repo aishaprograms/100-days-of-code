@@ -57,7 +57,7 @@ From January 9, 2017 to January 11, 2017 were sick days. January 10 pushes were 
 
 **Link to work:** [Local-Weather](https://github.com/aishaprograms/Local-Weather)
 
-## Day 8: January 14, 2017
+## Day 9: January 15, 2017
 **Today's Progress**: I added weather icons to my Local Weather app which picks an appropriate icon based on the weather description.
 
 **Thoughts:** I practiced using a switch case. It's still not so intuitive for me yet, but I learn more as I practice.
