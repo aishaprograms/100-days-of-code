@@ -64,3 +64,9 @@ From January 9, 2017 to January 11, 2017 were sick days. January 10 pushes were 
 
 **Link to work:** [Local-Weather](https://github.com/aishaprograms/Local-Weather)
 
+## Day 10: January 16, 2017
+**Today's Progress**: I added both Celsius and Fahrenheit to the app and made some CSS changes.
+
+**Thoughts:** My code seems very readable and almost semantic. I'm trying to write clearer code.
+
+**Link to work:** [Local-Weather](https://github.com/aishaprograms/Local-Weather)
