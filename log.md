@@ -71,7 +71,7 @@ From January 9, 2017 to January 11, 2017 were sick days. January 10 pushes were 
 
 **Link to work:** [Local-Weather](https://github.com/aishaprograms/Local-Weather)
 
-## Day 10: January 16, 2017
+## Day 11: January 17, 2017
 **Today's Progress**: I started reading up on Dark Sky API and other web app deployment sites. I'm going to modify the code for my app tomorrow.
 
 **Thoughts:** It's good to try different APIs because I can compare and contrast what the have to offer.
