@@ -77,3 +77,10 @@ From January 9, 2017 to January 11, 2017 were sick days. January 10 pushes were 
 **Thoughts:** It's good to try different APIs because I can compare and contrast what the have to offer.
 
 **Link to work:** [Local-Weather](https://github.com/aishaprograms/Local-Weather)
+
+## Day 12: January 18, 2017
+**Today's Progress**: I was curious about the importance of private API keys so I read up on APIs and backend development. Since I just started learning about backend development at school, I spent time going through an Express JS tutorial. I might just make my local weather app a full stack app.
+
+**Link to work:** [Local-Weather](https://twitter.com/aishaprograms/status/821964396566089729)
+
+
