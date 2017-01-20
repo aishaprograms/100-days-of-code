@@ -81,6 +81,12 @@ From January 9, 2017 to January 11, 2017 were sick days. January 10 pushes were 
 ## Day 12: January 18, 2017
 **Today's Progress**: I was curious about the importance of private API keys so I read up on APIs and backend development. Since I just started learning about backend development at school, I spent time going through an Express JS tutorial. I might just make my local weather app a full stack app.
 
-**Link to work:** [Local-Weather](https://twitter.com/aishaprograms/status/821964396566089729)
+**Link to work:** [My Tweet](https://twitter.com/aishaprograms/status/821964396566089729)
 
+## Day 13: January 19, 2017
+**Today's Progress**: I changed the code to retrieve the location using ip address. I did this because geolocation is allowed only over HTTPS. I'm still struggling to work with OpenWeatherMap api since it uses an HTTP url in the free version.
+
+**Thoughts:** Why do I have to pay for HTTPS connection to OpenWeatherMap api? Grr.
+
+**Link to work:** [Local-Weather](https://github.com/aishaprograms/Local-Weather)
 
