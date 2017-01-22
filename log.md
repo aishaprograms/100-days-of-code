@@ -86,7 +86,13 @@ From January 9, 2017 to January 11, 2017 were sick days. January 10 pushes were 
 ## Day 13: January 19, 2017
 **Today's Progress**: I changed the code to retrieve the location using ip address. I did this because geolocation is allowed only over HTTPS. I'm still struggling to work with OpenWeatherMap api since it uses an HTTP url in the free version.
 
-**Thoughts:** Why do I have to pay for HTTPS connection to OpenWeatherMap api? Grr.
-
 **Link to work:** [Local-Weather](https://github.com/aishaprograms/Local-Weather)
 
+January 20, 2017 was a homework day.
+
+## Day 14: January 21, 2017
+**Today's Progress**: I created a Codepen for my Local Weather app.
+
+**Thoughts:** I'm thinking in the future to add animations to this app.
+
+**Link to work:** [Local-Weather](http://codepen.io/aishaprograms/full/OWmjvq/)
