@@ -96,3 +96,9 @@ January 20, 2017 was a homework day.
 **Thoughts:** I'm thinking in the future to add animations to this app.
 
 **Link to work:** [Local-Weather](http://codepen.io/aishaprograms/full/OWmjvq/)
+
+## Day 15: January 22, 2017
+**Today's Progress**: I started learning about promises on Udacity!
+
+**Link to work:** [Tweet](https://twitter.com/aishaprograms/status/823424174005907457)
+
