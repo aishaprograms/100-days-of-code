@@ -102,3 +102,7 @@ January 20, 2017 was a homework day.
 
 **Link to work:** [Tweet](https://twitter.com/aishaprograms/status/823424174005907457)
 
+## Day 16: January 23, 2017
+**Today's Progress**: I continued learning about promises on Udacity.
+
+**Link to work:** [Tweet](https://twitter.com/aishaprograms/status/823955085982056448)
