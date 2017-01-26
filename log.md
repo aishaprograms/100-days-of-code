@@ -106,3 +106,8 @@ January 20, 2017 was a homework day.
 **Today's Progress**: I continued learning about promises on Udacity.
 
 **Link to work:** [Tweet](https://twitter.com/aishaprograms/status/823955085982056448)
+
+## Day 17: January 25, 2017
+**Today's Progress**: I started the exoplanet exercises from the Promises coursework on Udacity.
+
+**Link to work:** [Tweet](https://twitter.com/aishaprograms/status/824411573959663616)
