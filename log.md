@@ -111,3 +111,8 @@ January 20, 2017 was a homework day.
 **Today's Progress**: I started the exoplanet exercises from the Promises coursework on Udacity.
 
 **Link to work:** [Tweet](https://twitter.com/aishaprograms/status/824411573959663616)
+
+## Day 18: January 26, 2017
+**Today's Progress**: I learned about the Fetch API which uses Promises to retrieve JSON data from an API. The Promise course on Udacity has been very helpful and I'm halfway through!
+
+**Link to work:** [Tweet](https://twitter.com/aishaprograms/status/824837503941279744)
