@@ -121,6 +121,10 @@ January 20, 2017 was a homework day.
 **Today's Progress**: I completed the course!
 **Link to work:** [Tweet](https://twitter.com/aishaprograms/status/825625471572463616)
 
-## Day 20:January 28, 2017
+## Day 20:January 29, 2017
 **Today's Progress**: I started the Freecodecamp Wiki Viewer project. I'm probably going to put my own twist on this.
+**Link to work:** [Wiki-Viewer](https://github.com/aishaprograms/Wikipedia-Viewer)
+
+## Day 21:January 30, 2017
+**Today's Progress**: I altered the CSS and added Typed.js special effects (super cool!)
 **Link to work:** [Wiki-Viewer](https://github.com/aishaprograms/Wikipedia-Viewer)
