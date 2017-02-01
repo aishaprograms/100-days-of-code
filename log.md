@@ -128,3 +128,7 @@ January 20, 2017 was a homework day.
 ## Day 21:January 30, 2017
 **Today's Progress**: I altered the CSS and added Typed.js special effects (super cool!)
 **Link to work:** [Wiki-Viewer](https://github.com/aishaprograms/Wikipedia-Viewer)
+
+## Day 22:January 31, 2017
+**Today's Progress**: I added an input box and started looking into the Wiki API.
+**Link to work:** [Wiki-Viewer](https://github.com/aishaprograms/Wikipedia-Viewer)
