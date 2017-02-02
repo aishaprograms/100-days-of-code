@@ -132,3 +132,8 @@ January 20, 2017 was a homework day.
 ## Day 22:January 31, 2017
 **Today's Progress**: I added an input box and started looking into the Wiki API.
 **Link to work:** [Wiki-Viewer](https://github.com/aishaprograms/Wikipedia-Viewer)
+
+## Day 23: February 1, 2017
+**Today's Progress**: I set up the app to use the form input as a search term and create new divs for the results.
+**Thoughts:** It's hard to get a lot of work done on school days but I try my best to write at least some code.
+**Link to work:** [Wiki-Viewer](https://github.com/aishaprograms/Wikipedia-Viewer)
