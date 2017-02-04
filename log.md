@@ -141,3 +141,8 @@ January 20, 2017 was a homework day.
 ## Day 24: February 2, 2017
 **Today's Progress**: I can successfully retrieve data from the Wikipedia API and display links to the page.
 **Link to work:** [Wiki-Viewer](https://github.com/aishaprograms/Wikipedia-Viewer)
+
+## Day 25: February 3, 2017
+**Today's Progress**: Each result div displays info of the result pages. 
+**Thoughts:** I need to learn more about form submits and events. I can't use my input to search a different term after searching the first term just yet.
+**Link to work:** [Wiki-Viewer](https://github.com/aishaprograms/Wikipedia-Viewer)
