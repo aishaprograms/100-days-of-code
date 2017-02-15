@@ -146,3 +146,9 @@ January 20, 2017 was a homework day.
 **Today's Progress**: Each result div displays info of the result pages. 
 **Thoughts:** I need to learn more about form submits and events. I can't use my input to search a different term after searching the first term just yet.
 **Link to work:** [Wiki-Viewer](https://github.com/aishaprograms/Wikipedia-Viewer)
+
+Feb 4 to Feb 13 were dedicated to project-2 work.
+
+## Day 26: Feb 14, 2017
+**Today's Progress**: Began my research for a developer portfolio.
+**Link to work:** [Aisha-Programs](https://github.com/aishaprograms/aishaprograms)
