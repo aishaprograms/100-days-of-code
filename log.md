@@ -156,3 +156,8 @@ Feb 4 to Feb 13 were dedicated to project-2 work.
 ## Day 27: Feb 15, 2017
 **Today's Progress**: Researched SEO and created a template for my portfolio. I will use Material Design.
 **Link to work:** [Aisha-Programs](https://github.com/aishaprograms/aishaprograms)
+
+## Day 28: Feb 16, 2017
+**Today's Progress**: Edited landing page image and styled nav for my portfolio. 
+**Thoughts:** Creative juices are flowing!
+**Link to work:** [Aisha-Programs](https://github.com/aishaprograms/aishaprograms)
