@@ -152,3 +152,7 @@ Feb 4 to Feb 13 were dedicated to project-2 work.
 ## Day 26: Feb 14, 2017
 **Today's Progress**: Began my research for a developer portfolio.
 **Link to work:** [Aisha-Programs](https://github.com/aishaprograms/aishaprograms)
+
+## Day 27: Feb 15, 2017
+**Today's Progress**: Researched SEO and created a template for my portfolio. I will use Material Design.
+**Link to work:** [Aisha-Programs](https://github.com/aishaprograms/aishaprograms)
