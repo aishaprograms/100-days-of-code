@@ -161,3 +161,11 @@ Feb 4 to Feb 13 were dedicated to project-2 work.
 **Today's Progress**: Edited landing page image and styled nav for my portfolio. 
 **Thoughts:** Creative juices are flowing!
 **Link to work:** [Aisha-Programs](https://github.com/aishaprograms/aishaprograms)
+
+## Day 29: Feb 17, 2017
+**Today's Progress**: Edited content.
+**Link to work:** [Aisha-Programs](https://github.com/aishaprograms/aishaprograms)
+
+## Day 30: Feb 19, 2017
+**Today's Progress**: Started a portfolio page for my smaller projects.
+**Link to work:** [mini-projects](https://github.com/aishaprograms/mini-projects)
