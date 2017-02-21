@@ -169,3 +169,7 @@ Feb 4 to Feb 13 were dedicated to project-2 work.
 ## Day 30: Feb 19, 2017
 **Today's Progress**: Started a portfolio page for my smaller projects.
 **Link to work:** [mini-projects](https://github.com/aishaprograms/mini-projects)
+
+## Day 31: Feb 20, 2017
+**Today's Progress**: Added more projects.
+**Link to work:** [mini-projects](https://github.com/aishaprograms/mini-projects)
