@@ -173,3 +173,12 @@ Feb 4 to Feb 13 were dedicated to project-2 work.
 ## Day 31: Feb 20, 2017
 **Today's Progress**: Added more projects.
 **Link to work:** [mini-projects](https://github.com/aishaprograms/mini-projects)
+
+## Day 32: Feb 24, 2017
+**Today's Progress**: Added more content.
+**Link to work:** [mini-projects](https://github.com/aishaprograms/mini-projects)
+
+## Day 33: Feb 28, 2017
+**Today's Progress**: Added even more content.
+**Thoughts:** Content creation takes so long!
+**Link to work:** [mini-projects](https://github.com/aishaprograms/mini-projects)
