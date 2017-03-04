@@ -155,3 +155,7 @@ Feb 4 to Feb 13 were dedicated to project-2 work.
 **Link to work:** [mini-projects](https://github.com/aishaprograms/mini-projects)
 
 Update March 3, 2017: I've been busy learning React and working on my resume and my portfolio.
+
+## Day 34: Mar 3, 2017
+**Today's Progress**: Edited README files of many repos and cleaned up code for Hangman-Game.
+**Link to work:** [mini-projects](https://github.com/aishaprograms/Hangman-Game)
