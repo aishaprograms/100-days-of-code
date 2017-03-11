@@ -207,4 +207,11 @@ Update March 3, 2017: I've been busy learning React and working on my resume and
 ## Day 34: Mar 3, 2017
 **Today's Progress**: Edited README files of many repos and cleaned up code for Hangman-Game.
 
-**Link to work:** [mini-projects](https://github.com/aishaprograms/Hangman-Game)
+**Link to work:** [Hangman-Game](https://github.com/aishaprograms/Hangman-Game)
+
+## Day 35: Mar 11, 2017
+**Today's Progress**: Cleaned up code for Simple-RPG-Game.
+
+**Thoughts:** I don't get much time for my side projects these days due to the demands of my main projects. I'm still writing code everyday, just not for this challenge.
+
+**Link to work:** [Simple-RPG-Game](https://github.com/aishaprograms/Simple-RPG-Game)
