@@ -1,4 +1,9 @@
-# 100 Days Of Code - Log
+# 100 Days Of Code - Log - Take II
+### Day 1: January 4, 2017 
+
+**Today's Progress**: Started on a Rails blog. Learning Rails after Node/ Express is going to be exciting!!
+
+# 100 Days Of Code - Log - Take I (finished 35 days)
 
 ### Day 1: January 4, 2017 
 
